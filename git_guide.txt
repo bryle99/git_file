@@ -1,0 +1,12 @@
+git init
+git config --global user.email "brylebaran@gmail.com"
+git config --global user.name "bryle"
+git status
+git add .
+git commit -m "init commit"
+
+git remote add origin https://github.com/bryle99/git_file
+git remote -v
+git push origin master
+git pull origin master
+:x
