@@ -10,3 +10,8 @@ git remote -v
 git push origin master
 git pull origin master
 :x
+
+git reverse (not advisable)
+git revert (not advisable) 
+git stash
+git pop
